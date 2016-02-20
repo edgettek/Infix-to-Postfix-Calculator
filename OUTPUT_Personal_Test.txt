@@ -1,0 +1,9 @@
+0.00
+0.00
+6.00
+2.00
+0.00
+You didn't enter a valid expression
+You didn't enter a valid expression
+You tried to divide by zero
+You tried to divide by zero

@@ -1,0 +1,19 @@
+OUTPUT
+
+Contact Information:
+
+Name: Kyle Edgette
+Class: CSC 172 SPRING 2015
+Lab Session: Monday/Wednesday 2pm
+TA Name: TJ Stein
+Assignment Number: Project 02
+
+
+Instructions on Running the Program:
+
+Change directories in the command line until you are in the appropriate directory. Please note that the text file which contains the infix expression that you wish to be evaluated MUST be in the same directory as the source code. Next compile and run the program USING COMMAND LINE ARGUMENTS as shown below:
+
+javac *.java
+java Test infix_expr_short.txt my_eval.txt
+java Test Personal_Test.txt Personal_output.txt
+
